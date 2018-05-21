@@ -7,7 +7,7 @@ tags:       [Misc]
 mathjax:    false
 date:       2016-01-01
 author:     "Bruce Zhao"
-header-img: "https://cdn.rawgit.com/BruceZhaoR/brucezhaor.github.io/master/img/post/..."
+header-img: "https://cdn.rawgit.com/BruceZhaoR/jerry-chow.github.io/master/img/post/..."
 #bg-color: "linear-gradient(56deg, #155799, #159978)"
 description: "简单描述"
 ---

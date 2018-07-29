@@ -1,6 +1,5 @@
-## BruceZhao's Tech Blog
+## Jerry Chow's Blog
  
-这个博客将用来记录在使用 **R** 过程中的笔记和感想，欢迎大家与我交流数据分析方面的知识~
 
 欢迎大家RSS订阅我的博客,只需要复制 `http://jerry-chow.github.io/feed.xml`到邮箱或者订阅阅读器之类的地方就可以了.
 

@@ -25,6 +25,9 @@ To do :
 - [ ] 文章页面侧边导航栏
 - [x] header.image  note:`background-image: linear-gradient(to right bottom,#fff,#808080,#000);background-image: linear-gradient(110deg, #155799, #159978);`
 
+2019-11-27
+- [x] jerrychow.tk 域名已失效 The Domain jerrychow.tk blog has been Invalid; ドメインが無効になにました .
+
 2016-06-30
 
 - [x] 在头文件中加上`mathjax: true`, 实现数学公式渲染.
